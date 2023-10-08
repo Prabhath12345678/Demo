@@ -1,3 +1,3 @@
 # Demo
-Author \
+Author
 name
